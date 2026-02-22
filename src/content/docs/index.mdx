@@ -1,0 +1,51 @@
+---
+title: BeeBuddy
+description: AI-powered beekeeping management platform. Track hives, log inspections, and get intelligent recommendations.
+template: splash
+hero:
+  tagline: Open-source, AI-powered beekeeping management. Track your hives, log inspections, and get intelligent recommendations — all from your phone.
+  image:
+    dark: ../../assets/logo-dark.png
+    light: ../../assets/logo-light.png
+  actions:
+    - text: Get Started
+      link: /guides/introduction/
+      icon: right-arrow
+    - text: View on GitHub
+      link: https://github.com/jsrobinson3/BeeBuddy
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Why BeeBuddy?
+
+<CardGrid>
+  <Card title="Track Your Hives" icon="pencil">
+    Organize apiaries, manage hive records, and log detailed inspections
+    with an intuitive mobile interface.
+  </Card>
+  <Card title="AI-Powered Insights" icon="star">
+    Get intelligent recommendations based on your inspection data,
+    local weather, and seasonal patterns.
+  </Card>
+  <Card title="Open Source" icon="open-book">
+    Apache-2.0 licensed. Run it yourself, contribute features, or
+    customize it for your operation.
+  </Card>
+  <Card title="Mobile First" icon="rocket">
+    Built with Expo (React Native) so you can record inspections
+    right at the hive yard.
+  </Card>
+</CardGrid>
+
+## Features
+
+- **Apiary & Hive Management** — Organize your bee yards and track individual colonies
+- **Inspection Logging** — Record queen status, temperament, brood patterns, and more
+- **AI Recommendations** — Provider-agnostic LLM integration (local Ollama or cloud APIs)
+- **Photo Attachments** — Document hive conditions with images
+- **Multi-User** — Secure authentication with social login support
+- **Offline-Ready** — Designed for use in the field with sync when connected
+- **Self-Hostable** — Docker Compose setup for easy local or server deployment
