@@ -127,8 +127,9 @@ the right to request the deletion of your personal data.
 
 ### How to delete your data
 
-- **Self-service** — log into the BeeBuddy app and select **Delete My Account**.
-  This will immediately remove your account and all associated data.
+- **Self-service** — log into the BeeBuddy app, go to **Settings**, and select
+  **Delete My Account**. This will immediately remove your account and all
+  associated data.
 - **Email** — if you are unable to log in, send an email to
   [info@beebuddyai.com](mailto:info@beebuddyai.com) with the email address
   associated with your account and we will make a best effort to process your
