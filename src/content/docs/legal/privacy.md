@@ -97,7 +97,8 @@ scientific efforts to promote the health of bees and pollinator ecosystems.
 
 We retain your data for as long as your account is active or as needed to
 provide the service. You may request deletion of your account and associated data
-at any time by contacting us.
+at any time by emailing [info@beebuddyai.com](mailto:info@beebuddyai.com). See
+[Data Deletion Requests](#data-deletion-requests) for details.
 
 ## Security
 
@@ -115,13 +116,60 @@ Depending on your jurisdiction, you may have the right to:
 - Export your data in a portable format.
 - Object to or restrict certain processing.
 
-To exercise any of these rights, contact us using the information below.
+To exercise any of these rights, email us at
+[info@beebuddyai.com](mailto:info@beebuddyai.com).
+
+## Data Deletion Requests
+
+In accordance with the General Data Protection Regulation (GDPR), the California
+Consumer Privacy Act (CCPA), and other applicable data protection laws, you have
+the right to request the deletion of your personal data.
+
+### How to submit a request
+
+Send an email to [info@beebuddyai.com](mailto:info@beebuddyai.com) with the
+subject line "Data Deletion Request" and include the following:
+
+- The email address associated with your BeeBuddy account.
+- Your full name (as it appears on your account, if applicable).
+- A brief description of the data you would like deleted, or a statement that you
+  wish to delete all personal data associated with your account.
+
+### What happens next
+
+- We will acknowledge your request within **3 business days**.
+- We will verify your identity before processing the request to protect your
+  account.
+- Deletion will be completed within **30 days** of verification, consistent with
+  GDPR and CCPA requirements.
+- You will receive a confirmation email once your data has been deleted.
+
+### Scope of deletion
+
+Upon request we will delete:
+
+- Account information (email, display name, credentials).
+- Beekeeping data (apiaries, hives, inspection logs, photos).
+- Usage data and device information linked to your account.
+
+We may retain limited data where required by law (e.g., financial transaction
+records) or where necessary to protect our legal interests. Any retained data
+will be restricted from further processing and deleted when the retention
+obligation expires.
+
+### Research program data
+
+If you previously opted into the Bee Health Research Program, data that has
+already been de-identified and shared with researchers cannot be recalled, as it
+can no longer be linked to your identity. Opting out and requesting deletion will
+prevent any future data from being included in the program.
 
 ## Children's Privacy
 
 BeeBuddy is not directed at children under 13. We do not knowingly collect
 personal information from children under 13. If you believe we have collected
-such information, please contact us so we can delete it.
+such information, please email us at
+[info@beebuddyai.com](mailto:info@beebuddyai.com) so we can delete it.
 
 ## Changes to This Policy
 
@@ -131,6 +179,8 @@ effective date.
 
 ## Contact Us
 
-If you have questions about this Privacy Policy, please open an issue on our
-[GitHub repository](https://github.com/jsrobinson3/BeeBuddy/issues) or email the
-maintainers.
+If you have questions about this Privacy Policy or wish to exercise your data
+rights, you can reach us at:
+
+- **Email:** [info@beebuddyai.com](mailto:info@beebuddyai.com)
+- **GitHub:** [github.com/jsrobinson3/BeeBuddy/issues](https://github.com/jsrobinson3/BeeBuddy/issues)
