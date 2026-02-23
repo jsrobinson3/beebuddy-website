@@ -125,24 +125,14 @@ In accordance with the General Data Protection Regulation (GDPR), the California
 Consumer Privacy Act (CCPA), and other applicable data protection laws, you have
 the right to request the deletion of your personal data.
 
-### How to submit a request
+### How to delete your data
 
-Send an email to [info@beebuddyai.com](mailto:info@beebuddyai.com) with the
-subject line "Data Deletion Request" and include the following:
-
-- The email address associated with your BeeBuddy account.
-- Your full name (as it appears on your account, if applicable).
-- A brief description of the data you would like deleted, or a statement that you
-  wish to delete all personal data associated with your account.
-
-### What happens next
-
-- We will acknowledge your request within **3 business days**.
-- We will verify your identity before processing the request to protect your
-  account.
-- Deletion will be completed within **30 days** of verification, consistent with
-  GDPR and CCPA requirements.
-- You will receive a confirmation email once your data has been deleted.
+- **Self-service** — log into the BeeBuddy app and select **Delete My Account**.
+  This will immediately remove your account and all associated data.
+- **Email** — if you are unable to log in, send an email to
+  [info@beebuddyai.com](mailto:info@beebuddyai.com) with the email address
+  associated with your account and we will make a best effort to process your
+  request promptly.
 
 ### Scope of deletion
 
