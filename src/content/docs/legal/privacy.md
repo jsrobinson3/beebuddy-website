@@ -61,6 +61,37 @@ these circumstances:
   process.
 - **Safety** — to protect the rights, safety, or property of BeeBuddy, our
   users, or the public.
+- **Bee Health Research Program** — if you opt in, de-identified data may be
+  shared with researchers as described below.
+
+## Bee Health Research Program
+
+BeeBuddy offers a voluntary research-sharing program designed to support
+scientific efforts to promote the health of bees and pollinator ecosystems.
+
+### How it works
+
+- **Opt-in only** — this program is entirely voluntary. No data is shared with
+  researchers unless you explicitly opt in through your account settings. You may
+  opt out at any time, and we will stop including your data in future research
+  data sets.
+- **De-identification** — before any data is shared, all personally identifiable
+  information (PII) is removed. This includes your name, email address, account
+  identifiers, precise location coordinates, and any other information that could
+  reasonably be used to identify you. Apiary locations are generalized to a
+  regional level only.
+- **What is shared** — de-identified beekeeping data such as inspection logs,
+  hive health observations, environmental conditions, and aggregated trends.
+- **Who receives the data** — qualified researchers and academic institutions
+  conducting studies related to bee health, pollinator conservation, and
+  ecosystem sustainability.
+- **No charge to researchers** — research data is provided to researchers at no
+  cost. BeeBuddy does not monetize this data in any way.
+- **No re-identification** — researchers who receive data must agree not to
+  attempt to re-identify any individuals from the de-identified data set.
+- **Transparency** — we may publish a list of research projects that have
+  received data through this program so you can see how your contributions are
+  making an impact.
 
 ## Data Retention
 

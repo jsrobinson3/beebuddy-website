@@ -67,6 +67,31 @@ guidance. We make no guarantees about the accuracy, completeness, or suitability
 of AI-generated suggestions. You are responsible for any actions you take based
 on these recommendations.
 
+## Bee Health Research Program
+
+BeeBuddy offers a voluntary program that shares de-identified beekeeping data
+with researchers working to improve bee health and pollinator ecosystems.
+
+- **Opt-in required** — participation is entirely voluntary. You must explicitly
+  opt in through your account settings before any of your data is included.
+- **De-identified data** — all personally identifiable information is removed
+  before data is shared. You cannot be identified from the research data set.
+- **Opt out at any time** — you may withdraw from the program at any time
+  through your account settings. Once you opt out, your data will not be included
+  in future research data sets.
+- **No commercial use** — research data is provided to researchers free of
+  charge and is not sold or licensed for commercial purposes.
+- **Researcher obligations** — researchers who receive data must agree not to
+  attempt to re-identify individuals and must use the data solely for bee health
+  and ecosystem research.
+
+By opting in, you acknowledge that de-identified data shared with researchers
+cannot be recalled from studies already in progress or published results at the
+time of your withdrawal.
+
+For full details on what data is shared and how it is de-identified, see our
+[Privacy Policy](/legal/privacy/).
+
 ## Availability and Changes
 
 We strive to keep the Service available but do not guarantee uninterrupted
