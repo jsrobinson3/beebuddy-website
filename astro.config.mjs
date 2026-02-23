@@ -49,6 +49,13 @@ export default defineConfig({
 						{ label: 'Development Setup', slug: 'contributing/development-setup' },
 					],
 				},
+				{
+					label: 'Legal',
+					items: [
+						{ label: 'Privacy Policy', slug: 'legal/privacy' },
+						{ label: 'Terms of Service', slug: 'legal/terms' },
+					],
+				},
 			],
 			head: [
 				{
