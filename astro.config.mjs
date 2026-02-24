@@ -36,6 +36,7 @@ export default defineConfig({
 						{ label: 'Managing Apiaries', slug: 'guides/apiaries' },
 						{ label: 'Hive Inspections', slug: 'guides/inspections' },
 						{ label: 'AI Recommendations', slug: 'guides/ai-recommendations' },
+						{ label: 'Delete Your Account', slug: 'guides/delete-account' },
 					],
 				},
 				{
