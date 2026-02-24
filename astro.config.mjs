@@ -31,11 +31,28 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Guides',
+					label: 'Hive Management',
 					items: [
 						{ label: 'Managing Apiaries', slug: 'guides/apiaries' },
 						{ label: 'Hive Inspections', slug: 'guides/inspections' },
+						{ label: 'Queen Management', slug: 'guides/queen-management' },
+						{ label: 'Hive Events', slug: 'guides/hive-events' },
+						{ label: 'Logging Treatments', slug: 'guides/treatments' },
+						{ label: 'Recording Harvests', slug: 'guides/harvests' },
+					],
+				},
+				{
+					label: 'Planning & Tasks',
+					items: [
+						{ label: 'Task Management', slug: 'guides/tasks' },
 						{ label: 'AI Recommendations', slug: 'guides/ai-recommendations' },
+					],
+				},
+				{
+					label: 'App Settings & Data',
+					items: [
+						{ label: 'Settings & Preferences', slug: 'guides/settings' },
+						{ label: 'Offline Use & Data Sync', slug: 'guides/offline-sync' },
 						{ label: 'Delete Your Account', slug: 'guides/delete-account' },
 					],
 				},
